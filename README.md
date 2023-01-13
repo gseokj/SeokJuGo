@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Seokju's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo)](https://github.com/anuraghazra/github-readme-stats)
+[![Seokju's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SeokJuGo/SeokJuGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
