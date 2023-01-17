@@ -1,5 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Seokju%20Go&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=""&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Seokju%20Go&fontColor=00000fontSize=90&fontAlign=62&fontAlignY=32&desc=""&descSize=25&descAlign=85&descAlignY=50)
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
