@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!-- Light Mode -->
 <div align="center"> 
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=250&section=header&text=SeokJuGo&fontSize=90&fontColor=FFFFFF)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
