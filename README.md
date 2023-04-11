@@ -1,13 +1,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Seokju%20Go&fontColor=FFFFFFfontSize=90&fontAlign=62&fontAlignY=32&desc=""&descSize=25&descAlign=85&descAlignY=50)
-        
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
-   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>/a>&nbsp
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp</a>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
@@ -51,7 +49,7 @@
 </div>
 
 <!-- Dark Mode -->
- 
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SeokJuGo&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
 </a>
