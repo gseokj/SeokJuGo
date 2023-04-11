@@ -1,10 +1,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Seokju%20Go&fontColor=FFFFFFfontSize=90&fontAlign=62&fontAlignY=32&desc=""&descSize=25&descAlign=85&descAlignY=50)
         
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokJuGo%2Fhit-counter&count_bg=%235EB6C8&title_bg=%23E3CBCB&icon=&icon_color=%23ACE6E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
+  
+  <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
