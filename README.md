@@ -38,8 +38,8 @@
 ---        
 <br>
         
-![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
-[![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
+![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=dark )
+[![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
         
 --- 
 
