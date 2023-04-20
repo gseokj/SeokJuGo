@@ -35,9 +35,10 @@
 <div align="center"> 
   
 
----        
-<br>
+---
 # Github Stats
+<br>
+
 ![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo&show_icons=true&theme=dark )
 [![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
         
