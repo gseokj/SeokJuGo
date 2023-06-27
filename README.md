@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
 
-![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/subhajit51193/subhajit51193/blob/output/github-contribution-grid-snake.gif)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 
