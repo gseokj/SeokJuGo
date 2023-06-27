@@ -17,17 +17,12 @@
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
 
-![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 
 </p>
-
-
-
-
-
 
 
 
@@ -45,7 +40,7 @@
 [![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
         
 --- 
-
+![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
 
 # BaekjoonOJ Stats
