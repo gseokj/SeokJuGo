@@ -42,7 +42,7 @@
 ---
 
 # Github Stats
-<br>
+
 
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
