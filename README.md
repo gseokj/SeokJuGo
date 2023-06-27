@@ -18,6 +18,9 @@
 </p>
 
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.gif)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 
 </p>
