@@ -33,7 +33,7 @@
   
  ---
 
-# BaekjoonOJ Stats
+# BOJ Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgoa2000)](https://solved.ac/hgoa2000/) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgoa2000&theme=cold)
 </a>
