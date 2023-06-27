@@ -42,6 +42,7 @@
 ---
 # Github Stats
 <br>
+
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
 ![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo&show_icons=true&theme=dark )
