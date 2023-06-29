@@ -46,9 +46,9 @@
 
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeokJuGo&theme=indian-flag" alt="Koti" height="250px" width="45%" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SeokJuGo&theme=indian-flag" alt="Koti" height="250px" width="45%" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SeokJuGo&label=Profile%20views&color=0e75b6&style=flat" alt="SeokJuGo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SeokJuGo&label=Profile%20views&color=0e75b6&style=flat" alt="SeokJuGo" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeokJuGo" alt="SeokJuGo" /></a> </p>
 
