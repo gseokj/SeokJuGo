@@ -47,7 +47,9 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeokJuGo&theme=indian-flag" alt="Koti" height="250px" width="45%" />
 
-<img src="https://komarev.com/ghpvc/?username=SeokJuGo&label=Profile%20views&color=0e75b6&style=flat" alt="SeokJuGo" />
+        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokJuGo%2Fhit-counter&count_bg=%235EB6C8&title_bg=%23E3CBCB&icon=&icon_color=%23ACE6E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+        
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeokJuGo" alt="SeokJuGo" /></a>
 
 
