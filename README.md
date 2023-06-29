@@ -46,13 +46,15 @@
 
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
+![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo&show_icons=true&theme=dark )
+[![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeokJuGo&theme=indian-flag" alt="Koti" height="250px" width="45%" />
 
 <img src="https://komarev.com/ghpvc/?username=SeokJuGo&label=Profile%20views&color=0e75b6&style=flat" alt="SeokJuGo" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeokJuGo" alt="SeokJuGo" /></a>
 
-![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo&show_icons=true&theme=dark )
-[![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
+
 
 
 
