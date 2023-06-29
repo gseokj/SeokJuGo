@@ -30,24 +30,19 @@
 
 <!-- Light Mode -->
 <div align="center"> 
-  
- ---
-
-# BOJ Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgoa2000)](https://solved.ac/hgoa2000/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgoa2000&theme=cold)
-</a>
-
 
 ---
-
-# Github Stats
-
 
 ![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
 ![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokJuGo&show_icons=true&theme=dark )
 [![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
+
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgoa2000)](https://solved.ac/hgoa2000/) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgoa2000&theme=cold)
+</a>
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeokJuGo&theme=indian-flag" alt="Koti" height="250px" width="45%" />
 
