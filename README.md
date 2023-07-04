@@ -1,4 +1,3 @@
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Seokju%20Go&fontColor=FFFFFFfontSize=90&fontAlign=62&fontAlignY=32&desc=""&descSize=25&descAlign=85&descAlignY=50)
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
