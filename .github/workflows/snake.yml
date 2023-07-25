@@ -1,7 +1,7 @@
 name: Generate Snake
 
 # Action이 언제 구동될지 결정
-
+ 
 on:
   schedule:
     # 6시간마다 한 번(수정 가능)
