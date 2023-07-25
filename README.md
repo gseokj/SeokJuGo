@@ -25,6 +25,7 @@
 
 
 
+![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- Light Mode -->
@@ -36,7 +37,6 @@
 [![SeokJuGo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokJuGo&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=dark&show_icons=true)](https://github.com/SeokJuGo/github-readme-stats)
 
 
-![snake gif](https://github.com/SeokJuGo/SeokJuGo/blob/output/github-contribution-grid-snake.svg)
 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgoa2000)](https://solved.ac/hgoa2000/) 
